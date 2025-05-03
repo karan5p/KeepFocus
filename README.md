@@ -25,7 +25,7 @@
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (browser extension).
 2. Open the Tampermonkey dashboard and click the **+** (Create a new script).
-3. Paste the entire script code into the editor [View Raw Script](placeholder), replacing the default template.
+3. Paste the entire script code into the editor [View Raw Script](https://raw.githubusercontent.com/karan5p/KeepFocus/refs/heads/main/KeepFocus.user.js), replacing the default template.
 4. Save the script (File > Save or press `Ctrl+S`).
 5. The script will now run automatically on all websites.
 
